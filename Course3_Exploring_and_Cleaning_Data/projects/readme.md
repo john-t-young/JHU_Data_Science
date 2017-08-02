@@ -2,7 +2,7 @@ Getting and Cleaning Data Final Project ReadMe
 ================================================
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-This project is a test of the student's abilities to apply data cleanup and processing skills learned from earlier course lectures as Part 3 of a 10 part series for John Hopkins University's Data Science Coursera Course.  The data is provided from a volunteer experiment set testing physical activities of random participants conducted at UC Irvine.  The project requirements are included below including links to final project deliverables. 
+This project is a test of the student's abilities to apply data cleanup and processing skills learned from earlier course lectures as Part 3 of a 10 part series for John Hopkins University's Data Science Coursera Course.  The data is provided from a volunteer experiment set, testing physical activities of random participants conducted at UC Irvine.  The project requirements are included below including links to final project deliverables. 
 
 
 Final Project Instruction Set
@@ -26,3 +26,10 @@ Final Project Deliverables
 
 Links to Project Deliverables
 --------------------------
+Deliverables | Description | Links
+--- | --- | ---
+Tidy Data Set |  Cleaned and Prepped Text File |  [Data Set Link](https://github.com/john-t-young/JHU_Data_Science/blob/master/Course3_Exploring_and_Cleaning_Data/projects/tidyData.txt "TinyData Text File")
+Getting and Cleaning Data -- Repo | GitHub Repo | [GitHub Repo Link] (https://github.com/john-t-young/JHU_Data_Science/tree/master/Course3_Exploring_and_Cleaning_Data "GitHub Repo for Cleaning Data Assignment")
+Getting and Cleaning Data -- R Script |  run_analysis.R |  [Cleansed Data R Script Link] (https://github.com/john-t-young/JHU_Data_Science/blob/master/Course3_Exploring_and_Cleaning_Data/projects/run_analysis.r "Run_Analysis R Script")
+Codebook on Tidy Data Set | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
