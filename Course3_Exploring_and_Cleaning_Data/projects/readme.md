@@ -29,7 +29,7 @@ Links to Project Deliverables
 Deliverables | Description | Links
 --- | --- | ---
 Tidy Data Set |  Cleaned and Prepped Text File |  [Data Set Link](https://github.com/john-t-young/JHU_Data_Science/blob/master/Course3_Exploring_and_Cleaning_Data/projects/tidyData.txt "TinyData Text File")
-Getting and Cleaning Data -- Repo | GitHub Repo | [GitHub Repo Link] (https://github.com/john-t-young/JHU_Data_Science/tree/master/Course3_Exploring_and_Cleaning_Data "GitHub Repo for Cleaning Data Assignment")
-Getting and Cleaning Data -- R Script |  run_analysis.R |  [Cleansed Data R Script Link] (https://github.com/john-t-young/JHU_Data_Science/blob/master/Course3_Exploring_and_Cleaning_Data/projects/run_analysis.r "Run_Analysis R Script")
+Getting and Cleaning Data -- Repo | GitHub Repo | [GitHub Repo Link](https://github.com/john-t-young/JHU_Data_Science/tree/master/Course3_Exploring_and_Cleaning_Data "GitHub Repo for Cleaning Data Assignment")
+Getting and Cleaning Data -- R Script |  run_analysis.R |  [Cleansed Data R Script Link](https://github.com/john-t-young/JHU_Data_Science/blob/master/Course3_Exploring_and_Cleaning_Data/projects/run_analysis.r "Run_Analysis R Script")
 Codebook on Tidy Data Set | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
