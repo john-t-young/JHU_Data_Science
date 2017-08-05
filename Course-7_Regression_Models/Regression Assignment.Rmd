@@ -1,0 +1,30 @@
+---
+title: 'JHU Data Science: Regression Models Course Project'
+author: "John Young"
+date: "July 24, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Executive Summary
+-----------------
+The current assignment from _Motor Trend_ magazine is to determine from a sample data set whether there is a causal relationship between transmission type and MPGs (miles per gallon) and if there is, what the numerical difference is.  ```Mtcars``` dataset was used for the analysis and has 11 features collected from 32 automobile models. 
+
+A t-test was used to determine that manual transmission vehicles have a greater MPG than automatic transmission vehicles.  I then fit multiple linear regressions on the data to show that transmission accounted less significantly to MPG differences while other variables including weight, horsepower and number of cylinders contributed significantly to overall MPG of vehicles for a R2 value ~87%.   
+
+```{r cars}
+summary(cars)
+```
+
+Including Plots
+---------------
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
